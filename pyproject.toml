@@ -26,4 +26,4 @@ sections = ["FUTURE", "STDLIB", "THIRDPARTY", "FRAPPE", "ERPNEXT", "FIRSTPARTY",
 parameterized = "~=0.8.1"
 time-machine = "~=2.10.0"
 qrcode= "~=7.4.2"
-forex-python "~= 1.8"
+forex-python "~=1.8"
